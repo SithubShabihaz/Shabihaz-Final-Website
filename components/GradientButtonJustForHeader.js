@@ -78,7 +78,7 @@ export default function BreakButton() {
           <div className="absolute top-0 left-[10%] right-[10%] h-[1px] bg-gradient-to-r from-transparent via-white to-transparent opacity-70 pointer-events-none z-10" />
 
           {/* Text Content (Resized from 42px to 21px) */}
-          <span className="relative z-20 text-white text-[14px] tracking-[0.12em] font-medium drop-shadow-[0_2px_5px_rgba(0,0,0,0.8)]">
+          <span className="relative z-20 text-white text-[14px] tracking-[0.12em] font-rajdhani font-medium drop-shadow-[0_2px_5px_rgba(0,0,0,0.8)]">
             Book A Discovery Call
           </span>
         </button>
